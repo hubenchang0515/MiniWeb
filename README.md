@@ -120,5 +120,5 @@ def index(request,response) :
     
 web.exec()
 ```
-Visit localhost:8000 in broswer.
+Visit localhost:8000 in broswer.  
 ![](https://github.com/hubenchang0515/MiniWeb/blob/master/readme.png?raw=true)
