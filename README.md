@@ -91,7 +91,7 @@ html = template.html()
 
 
 # Example
-HTML file index.html
+## HTML file index.html
 ```
 <html>
     <head>
@@ -103,6 +103,7 @@ HTML file index.html
     </body>
 </html>
 ```
+## Python file
 ```
 #! /usr/bin/env python3
 import MiniWeb
