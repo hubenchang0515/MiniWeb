@@ -91,7 +91,7 @@ html = template.html()
 
 
 # Example
-HTML file index.html
+## HTML file index.html
 ```
 <html>
     <head>
@@ -103,6 +103,7 @@ HTML file index.html
     </body>
 </html>
 ```
+## Python file
 ```
 #! /usr/bin/env python3
 import MiniWeb
@@ -120,6 +121,5 @@ def index(request,response) :
     
 web.exec()
 ```
-Visit localhost:8000 in broswer.
-
-
+Visit localhost:8000 in broswer.  
+![](https://github.com/hubenchang0515/MiniWeb/blob/master/readme.png?raw=true)
