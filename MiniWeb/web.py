@@ -1,7 +1,12 @@
 #! /usr/bin/env python3
 
+if __name__ == '__main__' :
+    import type
+else :
+    from .type import *
+
 from wsgiref.simple_server import make_server
-from .type import *
+
 import magic
 import os
 import re
